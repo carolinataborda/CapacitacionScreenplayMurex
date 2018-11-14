@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'CapacitacionScreenplayMurex'
+rootProject.name = 'Ninja_Store'
